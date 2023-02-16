@@ -1,8 +1,8 @@
-# task2
+## Task-2 
 
 A new Flutter project.
 
 ## Getting Started
 
-This project for Liquid Galaxy Pre-selection purpose.
+This project is for Liquid Galaxy Pre-selection.
 
